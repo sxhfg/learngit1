@@ -1,0 +1,29 @@
+michaelliao
+https://github.com/michaelliao/learngit
+
+git@github.com:sxhfg/learngit.git
+
+Updates were rejected because the remote contains work that you do not have locally. This is usually caused by another repository pushing to the same ref. You may want to first integrate the remote changes (e.g., 'git pull ...') before pushing again.
+See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+error: You have not concluded your merge (MERGE_HEAD exists).Please, commit your changes before merging.
+fatal: Exiting because of unfinished merge.
+
+
+An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r C:/learngit1/.git/COMMIT_EDIT
+MSG"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "C:/learngit1/.git/.COMMIT_EDI
+TMSG.swp"
+    to avoid this message.
+
+ git push -u origin master
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+
+
+正在连接github.com:22...无法打开到主机的连接。 在端口 23: 连接失败
